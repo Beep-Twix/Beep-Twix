@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Beep-Twix" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Dans+l%27ombre+j%27apprends%2C+a+la+lumiere+je+deploie." alt="Typing SVG" />
 
 <br/>
 
@@ -30,36 +30,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+![Réseaux](https://img.shields.io/badge/🌐%20Réseaux-Routage%20·%20VLAN%20·%20NAT%20·%20AD%20·%20DHCP%20·%20DNS%20·%20SNMP%20·%20WiFi-7C3AED?style=flat-square&logoColor=white)
 
-**🌐 Réseaux**
-> Routage · VLAN · NAT · AD · DHCP · DNS · SNMP · WiFi
+![Systèmes](https://img.shields.io/badge/🖥️%20Systèmes-Debian%20·%20Windows%20Server%20·%20TrueNAS-6D28D9?style=flat-square&logoColor=white)
 
-</td>
-<td>
+![Services](https://img.shields.io/badge/⚙️%20Services-GLPI%20·%20Odoo%20·%20Nginx%20·%20Fail2ban%20·%20Let's%20Encrypt-7C3AED?style=flat-square&logoColor=white)
 
-**🖥️ Systèmes**
-> Debian · Windows Server · TrueNAS
-
-</td>
-</tr>
-<tr>
-<td>
-
-**⚙️ Services**
-> GLPI · Odoo · Nginx · Fail2ban · Let's Encrypt
-
-</td>
-<td>
-
-**💻 Dev**
-> HTML/CSS · Python · SQL · Supabase
-
-</td>
-</tr>
-</table>
+![Dev](https://img.shields.io/badge/💻%20Dev-HTML%2FCSS%20·%20Python%20·%20SQL%20·%20Supabase-6D28D9?style=flat-square&logoColor=white)
 
 </div>
 
@@ -73,9 +50,9 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://i.imgur.com/HALLCAT_ID.png" width="60px"/>
+<img src="https://i.imgur.com/WEheK5n.png" width="70px"/>
 
-### 🔗 hall.cat
+### hall.cat
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 
 Solution de centralisation d'identité numérique  
@@ -87,7 +64,7 @@ conçue pour les créateurs et les professionnels.
 
 <img src="https://i.imgur.com/W4nOrQH.gif" width="100%"/>
 
-### 🎮 Liya Basewars
+### Liya Basewars
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 ![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
 
