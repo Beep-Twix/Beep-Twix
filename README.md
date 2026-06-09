@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Dans+l%27ombre+j%27apprends%2C+a+la+lumiere+je+deploie." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Beep-Twix" alt="Typing SVG" />
 
 <br/>
 
