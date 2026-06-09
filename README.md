@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/BZej4CbwGjEHK/giphy.gif" width="100%" height="200px" style="object-fit:cover"/>
+<img src="https://media.giphy.com/media/BZej4CbwGjEHK/giphy.gif" width="100%"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Dans+l%27ombre+j%27apprends%2C+a+la+lumiere+je+deploie." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Beep-Twix;Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 **🌐 Réseaux**
 
-![Routage](https://img.shields.io/badge/Routage-2D2D2D?style=flat-square&logoColor=white)
+![Routage](https://img.shields.io/badge/Routage-2D2D2D?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-2D2D2D?style=flat-square)
 ![NAT](https://img.shields.io/badge/NAT-2D2D2D?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -83,7 +83,7 @@
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="middle">
 
 <br/>
 <img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
@@ -104,7 +104,7 @@ conçue pour les créateurs et les professionnels.
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://i.imgur.com/W4nOrQH.gif" width="100%" height="200px"/>
+<img src="https://i.imgur.com/W4nOrQH.gif" width="90%"/>
 
 <br/>
 
@@ -140,5 +140,5 @@ un univers de survie, de factions et de conquête.
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%" height="200px" style="object-fit:cover"/>
+<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%"/>
 </div>
