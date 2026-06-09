@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/BZej4CbwGjEHK/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/BZej4CbwGjEHK/giphy.gif" width="100%" height="200px" style="object-fit:cover"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Dans+l%27ombre+j%27apprends%2C+a+la+lumiere+je+deploie." alt="Typing SVG" />
 
@@ -30,13 +30,48 @@
 
 <div align="center">
 
-![Réseaux](https://img.shields.io/badge/🌐%20Réseaux-Routage%20·%20VLAN%20·%20NAT%20·%20AD%20·%20DHCP%20·%20DNS%20·%20SNMP%20·%20WiFi-7C3AED?style=flat-square&logoColor=white)
+<br/>
 
-![Systèmes](https://img.shields.io/badge/🖥️%20Systèmes-Debian%20·%20Windows%20Server%20·%20TrueNAS-6D28D9?style=flat-square&logoColor=white)
+**🌐 Réseaux**
 
-![Services](https://img.shields.io/badge/⚙️%20Services-GLPI%20·%20Odoo%20·%20Nginx%20·%20Fail2ban%20·%20Let's%20Encrypt-7C3AED?style=flat-square&logoColor=white)
+![Routage](https://img.shields.io/badge/Routage-2D2D2D?style=flat-square&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-2D2D2D?style=flat-square)
+![NAT](https://img.shields.io/badge/NAT-2D2D2D?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-2D2D2D?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-2D2D2D?style=flat-square)
+![SNMP](https://img.shields.io/badge/SNMP-2D2D2D?style=flat-square)
+![WiFi](https://img.shields.io/badge/WiFi-2D2D2D?style=flat-square)
 
-![Dev](https://img.shields.io/badge/💻%20Dev-HTML%2FCSS%20·%20Python%20·%20SQL%20·%20Supabase-6D28D9?style=flat-square&logoColor=white)
+<br/>
+
+**🖥️ Systèmes**
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+
+<br/>
+
+**⚙️ Services**
+
+![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+
+<br/>
+
+**💻 Dev**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br/>
 
 </div>
 
@@ -48,29 +83,43 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img src="https://i.imgur.com/WEheK5n.png" width="70px"/>
+<br/>
+<img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
+<br/><br/>
 
-### hall.cat
+**hall.cat**
+
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
+
+<br/>
 
 Solution de centralisation d'identité numérique  
 conçue pour les créateurs et les professionnels.  
 *Transformer une simple liste de liens en une véritable vitrine esthétique et performante.*
 
+<br/>
+
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img src="https://i.imgur.com/W4nOrQH.gif" width="100%"/>
+<img src="https://i.imgur.com/W4nOrQH.gif" width="100%" height="200px"/>
 
-### Liya Basewars
+<br/>
+
+**Liya Basewars**
+
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 ![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
+
+<br/>
 
 Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
 un univers de survie, de factions et de conquête.  
 *Construis ta base, défends ton territoire, domine le serveur.*
+
+<br/>
 
 </td>
 </tr>
@@ -91,5 +140,5 @@ un univers de survie, de factions et de conquête.
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%" height="200px" style="object-fit:cover"/>
 </div>
