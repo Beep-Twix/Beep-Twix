@@ -4,16 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Étudiant+BTS+SIO+—+Option+SISR;Infrastructure+·+Réseaux+·+Sysadmin;Dans+l'ombre+j'apprends,+à+la+lumière+je+déploie." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin;Dans+l%27ombre+j%27apprends%2C+a+la+lumiere+je+deploie." alt="Typing SVG" />
 
-</div>
+<br/>
 
----
+<img src="https://img.shields.io/badge/BTS%20SIO-SISR-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/France-🇫🇷-A78BFA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure%20·%20Réseaux-6D28D9?style=for-the-badge&logoColor=white"/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Formation-BTS%20SIO%20SISR-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Localisation-France-A78BFA?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Infrastructure%20·%20Réseaux-6D28D9?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
@@ -32,12 +30,36 @@
 
 <div align="center">
 
-```yaml
-réseaux:     Routage · VLAN · NAT · AD · DHCP · DNS · SNMP · WiFi
-systèmes:    Debian · Windows Server · TrueNAS
-services:    GLPI · Odoo · Nginx · Fail2ban · Let's Encrypt
-dev:         HTML/CSS · Python · SQL · Supabase
-```
+<table>
+<tr>
+<td>
+
+**🌐 Réseaux**
+> Routage · VLAN · NAT · AD · DHCP · DNS · SNMP · WiFi
+
+</td>
+<td>
+
+**🖥️ Systèmes**
+> Debian · Windows Server · TrueNAS
+
+</td>
+</tr>
+<tr>
+<td>
+
+**⚙️ Services**
+> GLPI · Odoo · Nginx · Fail2ban · Let's Encrypt
+
+</td>
+<td>
+
+**💻 Dev**
+> HTML/CSS · Python · SQL · Supabase
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -51,6 +73,8 @@ dev:         HTML/CSS · Python · SQL · Supabase
 <tr>
 <td align="center" width="50%">
 
+<img src="https://i.imgur.com/HALLCAT_ID.png" width="60px"/>
+
 ### 🔗 hall.cat
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 
@@ -60,6 +84,8 @@ conçue pour les créateurs et les professionnels.
 
 </td>
 <td align="center" width="50%">
+
+<img src="https://i.imgur.com/W4nOrQH.gif" width="100%"/>
 
 ### 🎮 Liya Basewars
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
