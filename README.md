@@ -113,7 +113,7 @@ conçue pour les créateurs et les professionnels.
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://i.imgur.com/W4nOrQH.gif" width="90%"/>
+<img src="https://i.imgur.com/87OGcuK.png" width="90%"/>
 
 <br/>
 
