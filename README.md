@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Beep-Twix;Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Beep-Twix;Etudiant+BTS+SIO+%E2%80%94+Option+SISR;Infrastructure+%C2%B7+Reseaux+%C2%B7+Sysadmin" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,9 @@
 
 <div align="center">
 
-<br/>
+<table>
+<tr>
+<td align="center" width="50%">
 
 **🌐 Réseaux**
 
@@ -43,7 +45,8 @@
 ![SNMP](https://img.shields.io/badge/SNMP-2D2D2D?style=flat-square)
 ![WiFi](https://img.shields.io/badge/WiFi-2D2D2D?style=flat-square)
 
-<br/>
+</td>
+<td align="center" width="50%">
 
 **🖥️ Systèmes**
 
@@ -51,7 +54,10 @@
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 **⚙️ Services**
 
@@ -61,7 +67,8 @@
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
-<br/>
+</td>
+<td align="center" width="50%">
 
 **💻 Dev**
 
@@ -71,7 +78,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
