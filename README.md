@@ -52,7 +52,8 @@
 
 **🖥️ Systèmes**
 
-[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows,vbox&theme=dark)](https://skillicons.dev)
+[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/Fe2L5S7.png" width="48px"/>
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
