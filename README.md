@@ -52,7 +52,7 @@
 
 **🖥️ Systèmes**
 
-[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows,virtualbox&theme=dark)](https://skillicons.dev)
+[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows,vbox&theme=dark)](https://skillicons.dev)
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -130,7 +130,7 @@ conçue pour les créateurs et les professionnels.
 <br/>
 
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-<img src="https://avatars.githubusercontent.com/u/26215483?s=48&v=4" width="48px" style="border-radius:10px"/>
+<img src="https://i.imgur.com/LRg9bzW.png" width="48px"/>
 
 <br/>
 
