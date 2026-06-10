@@ -110,6 +110,10 @@ conçue pour les créateurs et les professionnels.
 
 <br/>
 
+[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
 </td>
 <td align="center" width="50%" valign="top">
 
@@ -127,6 +131,11 @@ conçue pour les créateurs et les professionnels.
 Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
 un univers de survie, de factions et de conquête.  
 *Construis ta base, défends ton territoire, domine le serveur.*
+
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-Panel-1565C0?style=flat-square&logo=pterodactyl&logoColor=white)
 
 <br/>
 
