@@ -69,4 +69,100 @@
 ![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
-!
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**💻 Dev**
+
+[![Dev](https://skillicons.dev/icons?i=html,css,js,py,supabase,git&theme=dark)](https://skillicons.dev)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Projets</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%" valign="middle">
+
+<br/>
+<img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
+<br/><br/>
+
+**hall.cat**
+
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
+
+<br/>
+
+Solution de centralisation d'identité numérique  
+conçue pour les créateurs et les professionnels.  
+*Transformer une simple liste de liens en une véritable vitrine esthétique et performante.*
+
+<br/>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://i.imgur.com/87OGcuK.png" width="90%"/>
+
+<br/>
+
+**Liya Basewars**
+
+<br/>
+
+[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+<img src="https://avatars.githubusercontent.com/u/26probably?s=48&v=4" width="48px" style="border-radius:10px"/>
+
+<br/>
+
+![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
+![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
+
+<br/>
+
+Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
+un univers de survie, de factions et de conquête.  
+*Construis ta base, défends ton territoire, domine le serveur.*
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">📬 Contact</h2>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github.com%2Fbeep--twix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beep-twix)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%"/>
+</div>
