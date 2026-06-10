@@ -46,7 +46,7 @@
 ![DNS](https://img.shields.io/badge/🌐%20DNS-2D2D2D?style=flat-square)
 ![SNMP](https://img.shields.io/badge/📊%20SNMP-2D2D2D?style=flat-square)
 ![WiFi](https://img.shields.io/badge/📶%20WiFi-2D2D2D?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoftactivedirectory&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -57,34 +57,11 @@
 <img src="https://i.imgur.com/Fe2L5S7.png" width="48px"/>
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windowsserver&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-**⚙️ Services**
-
-[![Services](https://skillicons.dev/icons?i=nginx,docker&theme=dark)](https://skillicons.dev)
-
-<img src="https://i.imgur.com/zu1MIHZ.png" height="20px" style="vertical-align:middle"/> ![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square&logo=shield&logoColor=white)
-![Lets Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**💻 Dev**
-
-[![Dev](https://skillicons.dev/icons?i=html,css,js,py,supabase,git&theme=dark)](https://skillicons.dev)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 </div>
 ---
