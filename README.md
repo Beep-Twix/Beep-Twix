@@ -52,7 +52,7 @@
 
 **🖥️ Systèmes**
 
-[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows&theme=dark)](https://skillicons.dev)
+[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows,virtualbox&theme=dark)](https://skillicons.dev)
 
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -64,12 +64,12 @@
 
 **⚙️ Services**
 
-[![Services](https://skillicons.dev/icons?i=nginx,postgres,docker&theme=dark)](https://skillicons.dev)
+[![Services](https://skillicons.dev/icons?i=nginx,docker&theme=dark)](https://skillicons.dev)
 
 ![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Lets Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -135,7 +135,7 @@ conçue pour les créateurs et les professionnels.
 <br/>
 
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
-![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
+![Garry's Mod](https://img.shields.io/badge/Garry%27s%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
 
 <br/>
 
