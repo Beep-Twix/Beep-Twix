@@ -130,7 +130,7 @@ conçue pour les créateurs et les professionnels.
 <br/>
 
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-<img src="https://avatars.githubusercontent.com/u/26probably?s=48&v=4" width="48px" style="border-radius:10px"/>
+<img src="https://avatars.githubusercontent.com/u/26215483?s=48&v=4" width="48px" style="border-radius:10px"/>
 
 <br/>
 
