@@ -21,6 +21,7 @@
 <div align="center">
 
 [![Stack](https://skillicons.dev/icons?i=linux,debian,windows,nginx,postgres,supabase,python,html,css,js,git,docker&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/Fe2L5S7.png" width="48px"/>
 
 </div>
 
