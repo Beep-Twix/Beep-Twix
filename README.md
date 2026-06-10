@@ -36,23 +36,26 @@
 
 **🌐 Réseaux**
 
+[![Réseaux](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
+
 ![Routage](https://img.shields.io/badge/Routage-2D2D2D?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-2D2D2D?style=flat-square)
 ![NAT](https://img.shields.io/badge/NAT-2D2D2D?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![DHCP](https://img.shields.io/badge/DHCP-2D2D2D?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-2D2D2D?style=flat-square)
 ![SNMP](https://img.shields.io/badge/SNMP-2D2D2D?style=flat-square)
 ![WiFi](https://img.shields.io/badge/WiFi-2D2D2D?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
 **🖥️ Systèmes**
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+[![Systèmes](https://skillicons.dev/icons?i=debian,linux,windows&theme=dark)](https://skillicons.dev)
+
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </td>
 </tr>
@@ -61,106 +64,9 @@
 
 **⚙️ Services**
 
+[![Services](https://skillicons.dev/icons?i=nginx,postgres,docker&theme=dark)](https://skillicons.dev)
+
 ![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**💻 Dev**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">🚀 Projets</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%" valign="middle">
-
-<br/>
-<img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
-<br/><br/>
-
-**hall.cat**
-
-<br/>
-
-[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
-
-<br/>
-
-Solution de centralisation d'identité numérique  
-conçue pour les créateurs et les professionnels.  
-*Transformer une simple liste de liens en une véritable vitrine esthétique et performante.*
-
-<br/>
-
-</td>
-<td align="center" width="50%" valign="middle">
-
-<br/>
-<img src="https://i.imgur.com/87OGcuK.png" width="80px"/>
-<br/><br/>
-
-**Liya Basewars**
-
-<br/>
-
-[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/pterodactyl/panel/develop/public/assets/pterodactyl.svg" width="48px" style="background:#1e1e2e;border-radius:12px;padding:6px"/>
-
-<br/>
-
-![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
-![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
-
-<br/>
-
-Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
-un univers de survie, de factions et de conquête.  
-*Construis ta base, défends ton territoire, domine le serveur.*
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">📬 Contact</h2>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github.com%2Fbeep--twix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beep-twix)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif" width="100%"/>
-</div>
+!
