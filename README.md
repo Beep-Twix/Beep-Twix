@@ -100,6 +100,12 @@
 
 **hall.cat**
 
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 
 <br/>
@@ -107,10 +113,6 @@
 Solution de centralisation d'identité numérique  
 conçue pour les créateurs et les professionnels.  
 *Transformer une simple liste de liens en une véritable vitrine esthétique et performante.*
-
-<br/>
-
-[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -123,6 +125,13 @@ conçue pour les créateurs et les professionnels.
 
 **Liya Basewars**
 
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1565C0?style=flat-square&logo=pterodactyl&logoColor=white)
+
+<br/>
+
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 ![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
 
@@ -131,11 +140,6 @@ conçue pour les créateurs et les professionnels.
 Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
 un univers de survie, de factions et de conquête.  
 *Construis ta base, défends ton territoire, domine le serveur.*
-
-<br/>
-
-[![Stack](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-Panel-1565C0?style=flat-square&logo=pterodactyl&logoColor=white)
 
 <br/>
 
