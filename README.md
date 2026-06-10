@@ -62,8 +62,32 @@
 </td>
 </tr>
 <tr>
+<td align="center" width="50%">
+
+**⚙️ Services**
+
+[![Services](https://skillicons.dev/icons?i=nginx,docker&theme=dark)](https://skillicons.dev)
+
+<img src="https://i.imgur.com/zu1MIHZ.png" height="18px"/> ![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/🛡️%20Fail2ban-2D2D2D?style=flat-square)
+![Lets Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**💻 Dev**
+
+[![Dev](https://skillicons.dev/icons?i=html,css,js,py,supabase,git&theme=dark)](https://skillicons.dev)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
+
 ---
 
 <h2 align="center">🚀 Projets</h2>
