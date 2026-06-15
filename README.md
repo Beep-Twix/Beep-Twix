@@ -99,7 +99,7 @@
 <td align="center" width="33%" valign="middle">
 
 <br/>
-<img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
+<img src="https://i.imgur.com/WEheK5n.png" width="90px"/>
 <br/><br/>
 
 **hall.cat**
@@ -124,7 +124,7 @@ conçue pour les créateurs et les professionnels.
 <td align="center" width="33%" valign="middle">
 
 <br/>
-<img src="https://i.imgur.com/87OGcuK.png" width="80px"/>
+<img src="https://i.imgur.com/87OGcuK.png" width="90px"/>
 <br/><br/>
 
 **Liya Basewars**
@@ -132,7 +132,7 @@ conçue pour les créateurs et les professionnels.
 <br/>
 
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-<img src="https://i.imgur.com/LRg9bzW.png" width="48px"/>
+<img src="https://i.imgur.com/LRg9bzW.png" width="60px"/>
 
 <br/>
 
@@ -151,7 +151,7 @@ un univers de survie, de factions et de conquête.
 <td align="center" width="33%" valign="middle">
 
 <br/>
-<img src="https://i.imgur.com/gMI75is.jpeg" width="80px"/>
+<img src="https://i.imgur.com/gMI75is.jpeg" width="90px"/>
 <br/><br/>
 
 **Bakal**
@@ -159,7 +159,7 @@ un univers de survie, de factions et de conquête.
 <br/>
 
 [![Stack](https://skillicons.dev/icons?i=react,supabase,firebase,sentry&theme=dark)](https://skillicons.dev)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+<img src="https://i.imgur.com/w8SduAI.png" width="60px"/>
 
 <br/>
 
@@ -178,7 +178,6 @@ et clients sur le marché marocain.
 </table>
 
 </div>
-
 ---
 
 <h2 align="center">📬 Contact</h2>
