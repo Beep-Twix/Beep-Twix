@@ -159,7 +159,7 @@ un univers de survie, de factions et de conquête.
 <br/>
 
 [![Stack](https://skillicons.dev/icons?i=react,supabase,firebase,sentry&theme=dark)](https://skillicons.dev)
-<img src="https://i.imgur.com/w8SduAI.png" width="60px"/>
+<img src="https://i.imgur.com/w8SduAI.png" width="48px" style="background-color:#1a1a2e;border-radius:12px;padding:8px"/>
 
 <br/>
 
@@ -178,6 +178,7 @@ et clients sur le marché marocain.
 </table>
 
 </div>
+
 ---
 
 <h2 align="center">📬 Contact</h2>
