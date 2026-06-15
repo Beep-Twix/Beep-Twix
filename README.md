@@ -101,7 +101,6 @@
 <br/>
 <img src="https://i.imgur.com/WEheK5n.png" width="90px"/>
 <br/><br/>
-
 **hall.cat**
 
 <br/>
@@ -126,7 +125,6 @@ conçue pour les créateurs et les professionnels.
 <br/>
 <img src="https://i.imgur.com/87OGcuK.png" width="90px"/>
 <br/><br/>
-
 **Liya Basewars**
 
 <br/>
@@ -153,7 +151,6 @@ un univers de survie, de factions et de conquête.
 <br/>
 <img src="https://i.imgur.com/gMI75is.jpeg" width="90px"/>
 <br/><br/>
-
 **Bakal**
 
 <br/>
