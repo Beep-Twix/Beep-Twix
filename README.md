@@ -158,7 +158,8 @@ un univers de survie, de factions et de conquête.
 
 <br/>
 
-[![Stack](https://skillicons.dev/icons?i=react,supabase,expo,firebase,sentry&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,supabase,firebase,sentry&theme=dark)](https://skillicons.dev)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 <br/>
 
