@@ -96,7 +96,7 @@
 
 <table>
 <tr>
-<td align="center" width="50%" valign="middle">
+<td align="center" width="33%" valign="middle">
 
 <br/>
 <img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
@@ -121,11 +121,11 @@ conçue pour les créateurs et les professionnels.
 <br/>
 
 </td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://i.imgur.com/87OGcuK.png" width="90%"/>
+<td align="center" width="33%" valign="middle">
 
 <br/>
+<img src="https://i.imgur.com/87OGcuK.png" width="80px"/>
+<br/><br/>
 
 **Liya Basewars**
 
@@ -144,6 +144,34 @@ conçue pour les créateurs et les professionnels.
 Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
 un univers de survie, de factions et de conquête.  
 *Construis ta base, défends ton territoire, domine le serveur.*
+
+<br/>
+
+</td>
+<td align="center" width="33%" valign="middle">
+
+<br/>
+<img src="https://i.imgur.com/gMI75is.jpeg" width="80px"/>
+<br/><br/>
+
+**Bakal**
+
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=react,supabase&theme=dark)](https://skillicons.dev)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<br/>
+
+![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
+
+<br/>
+
+Marketplace mettant en relation commerçants (bakals)  
+et clients sur le marché marocain.  
+*Connecter les petits commerces à leur clientèle, simplement.*
 
 <br/>
 
