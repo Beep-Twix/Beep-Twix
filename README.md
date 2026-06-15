@@ -90,46 +90,6 @@
 
 ---
 
-<h2 align="center">📜 Certifications & Formations</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![Cisco](https://skillicons.dev/icons?i=cisco&theme=dark)](https://skillicons.dev)
-
-**Introduction to Cybersecurity**
-<br/>
-Cisco Networking Academy
-
-</td>
-<td align="center" width="33%">
-
-🇫🇷
-
-**SecNumacadémie**
-<br/>
-ANSSI — Sécurité numérique
-
-</td>
-<td align="center" width="33%">
-
-🛡️
-
-**EBIOS Risk Manager**
-<br/>
-Club EBIOS — Gestion des risques
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <h2 align="center">🚀 Projets</h2>
 
 <div align="center">
