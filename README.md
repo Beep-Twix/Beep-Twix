@@ -1,5 +1,12 @@
 <div align="center">
 
+[![FR](https://img.shields.io/badge/🇫🇷-Français-7C3AED?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🇬🇧-English-2D2D2D?style=for-the-badge)](README.en.md)
+
+</div>
+
+<div align="center">
+
 <img src="https://media.giphy.com/media/BZej4CbwGjEHK/giphy.gif" width="100%"/>
 
 <br/><br/>
