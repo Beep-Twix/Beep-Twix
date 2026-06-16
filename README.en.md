@@ -28,6 +28,7 @@
 <div align="center">
 
 [![Stack](https://skillicons.dev/icons?i=linux,debian,windows,nginx,postgres,supabase,python,html,css,js,git,docker&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/Fe2L5S7.png" width="48px"/>
 
 </div>
 
@@ -43,23 +44,27 @@
 
 **🌐 Networking**
 
-![Routing](https://img.shields.io/badge/Routing-2D2D2D?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN-2D2D2D?style=flat-square)
-![NAT](https://img.shields.io/badge/NAT-2D2D2D?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-2D2D2D?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-2D2D2D?style=flat-square)
-![SNMP](https://img.shields.io/badge/SNMP-2D2D2D?style=flat-square)
-![WiFi](https://img.shields.io/badge/WiFi-2D2D2D?style=flat-square)
+[![Networking](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
+
+![Routing](https://img.shields.io/badge/🔀%20Routing-2D2D2D?style=flat-square)
+![VLAN](https://img.shields.io/badge/🔗%20VLAN-2D2D2D?style=flat-square)
+![NAT](https://img.shields.io/badge/🔁%20NAT-2D2D2D?style=flat-square)
+![DHCP](https://img.shields.io/badge/📡%20DHCP-2D2D2D?style=flat-square)
+![DNS](https://img.shields.io/badge/🌐%20DNS-2D2D2D?style=flat-square)
+![SNMP](https://img.shields.io/badge/📊%20SNMP-2D2D2D?style=flat-square)
+![WiFi](https://img.shields.io/badge/📶%20WiFi-2D2D2D?style=flat-square)
+![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-0078D4?style=flat-square)
 
 </td>
 <td align="center" width="50%">
 
 **🖥️ Systems**
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+[![Systems](https://skillicons.dev/icons?i=debian,linux,windows&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/Fe2L5S7.png" width="48px"/>
+
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+![Windows Server](https://img.shields.io/badge/⚙️%20Windows%20Server-0078D4?style=flat-square)
 
 </td>
 </tr>
@@ -68,22 +73,21 @@
 
 **⚙️ Services**
 
-![GLPI](https://img.shields.io/badge/GLPI-2D2D2D?style=flat-square)
+[![Services](https://skillicons.dev/icons?i=nginx,docker&theme=dark)](https://skillicons.dev)
+
+![GLPI](https://img.shields.io/badge/🎫%20GLPI-2D2D2D?style=flat-square)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Fail2ban](https://img.shields.io/badge/Fail2ban-2D2D2D?style=flat-square)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/🛡️%20Fail2ban-2D2D2D?style=flat-square)
+![Lets Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
 **💻 Dev**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Dev](https://skillicons.dev/icons?i=html,css,js,py,supabase,git&theme=dark)](https://skillicons.dev)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
@@ -99,13 +103,19 @@
 
 <table>
 <tr>
-<td align="center" width="50%" valign="middle">
+<td align="center" width="33%" valign="middle">
 
 <br/>
-<img src="https://i.imgur.com/WEheK5n.png" width="80px"/>
+<img src="https://i.imgur.com/WEheK5n.png" width="90px"/>
 <br/><br/>
 
 **hall.cat**
+
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=react,ts,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
 
@@ -117,22 +127,55 @@ A digital identity hub designed for creators and professionals.
 <br/>
 
 </td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://i.imgur.com/87OGcuK.png" width="90%"/>
+<td align="center" width="33%" valign="middle">
 
 <br/>
+<img src="https://i.imgur.com/87OGcuK.png" width="90px"/>
+<br/><br/>
 
 **Liya Basewars**
 
+<br/>
+
+[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/LRg9bzW.png" width="60px"/>
+
+<br/>
+
 ![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
-![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
+![Garry's Mod](https://img.shields.io/badge/Garry%27s%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
 
 <br/>
 
 A Garry's Mod server running the **Basewars** gamemode —  
 a world of survival, factions and conquest.  
 *Build your base, defend your territory, dominate the server.*
+
+<br/>
+
+</td>
+<td align="center" width="33%" valign="middle">
+
+<br/>
+<img src="https://i.imgur.com/gMI75is.jpeg" width="90px"/>
+<br/><br/>
+
+**Bakal**
+
+<br/>
+
+[![Stack](https://skillicons.dev/icons?i=react,supabase,firebase,sentry&theme=dark)](https://skillicons.dev)
+<img src="https://i.imgur.com/w8SduAI.png" width="40px"/>
+
+<br/>
+
+![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
+
+<br/>
+
+Marketplace connecting local merchants (bakals)  
+and customers on the Moroccan market.  
+*Bridging small shops with their community, simply.*
 
 <br/>
 
