@@ -134,33 +134,6 @@ conçue pour les créateurs et les professionnels.
 <img src="https://i.imgur.com/87OGcuK.png" width="90px"/>
 <br/><br/>
 
-**Liya Basewars**
-
-<br/>
-
-[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
-<img src="https://i.imgur.com/LRg9bzW.png" width="60px"/>
-
-<br/>
-
-![SOON](https://img.shields.io/badge/STATUS-SOON-7C3AED?style=for-the-badge)
-![Garry's Mod](https://img.shields.io/badge/Garry%27s%20Mod-Basewars-6D28D9?style=for-the-badge&logo=steam&logoColor=white)
-
-<br/>
-
-Serveur Garry's Mod propulsé par le gamemode **Basewars** —  
-un univers de survie, de factions et de conquête.  
-*Construis ta base, défends ton territoire, domine le serveur.*
-
-<br/>
-
-</td>
-<td align="center" width="33%" valign="middle">
-
-<br/>
-<img src="https://i.imgur.com/gMI75is.jpeg" width="90px"/>
-<br/><br/>
-
 **Bakal**
 
 <br/>
