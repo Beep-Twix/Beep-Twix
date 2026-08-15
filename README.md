@@ -130,10 +130,6 @@ conçue pour les créateurs et les professionnels.
 </td>
 <td align="center" width="33%" valign="middle">
 
-<br/>
-<img src="https://i.imgur.com/87OGcuK.png" width="90px"/>
-<br/><br/>
-
 **Bakal**
 
 <br/>
